@@ -1,0 +1,5 @@
+{
+  "name": "cc-context-status-line",
+  "owner": { "name": "alexeyv29" },
+  "plugins": [{ "name": "context-status", "source": "./" }]
+}
